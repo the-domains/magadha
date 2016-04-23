@@ -1,0 +1,28 @@
+name: Magadha
+favicon: null
+layout_spectrum: 0.9425982006359845
+typography_spectrum: 0.12834033905528486
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9846162579488009
+  lightness: 0.44328866130672395
+  saturation: 0.6648299302905798
+  rhythmicContrast: 0.9246308747678995
+purpose: []
